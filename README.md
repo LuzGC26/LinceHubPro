@@ -4,7 +4,7 @@
 LinceHub Pro es una plataforma centralizada y dashboard interactivo diseñado para ayudar a los estudiantes a gestionar su tiempo, reportar incidencias de infraestructura y sobrevivir al semestre de forma organizada. 
 
 ## Tecnologías Utilizadas
-* **Frontend:** HTML5, CSS3 (Custom Properties, Flexbox, CSS Grid) y JavaScript puro (Vanilla JS).
+* **Frontend:** HTML, CSS y JavaScript.
 * **Almacenamiento:** LocalStorage (Navegador).
 * **Control de Versiones:** Git y GitHub.
 
